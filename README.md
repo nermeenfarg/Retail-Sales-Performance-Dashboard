@@ -36,9 +36,5 @@ SQL Server (Cleaning) | Power Query | DAX | Power BI | Star Schema
 2. Corporate 47% & Partner channel lead
 3. Returns improved 50.8% - Need refund automation
 
-### 📁 Files
-- `Retail Sales Dashboard.pbix` - Download to interact
-- `Retail Presentation.pptx`
-
 ---
 **Author:** Nermeen Elsayed Farg - Data Analyst
